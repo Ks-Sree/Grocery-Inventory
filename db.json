@@ -1,0 +1,25 @@
+{
+  "groceries": [
+    {
+      "id": "425a",
+      "name": "Lettuce",
+      "category": "",
+      "quantity": "0",
+      "expiry": "2025-10-31"
+    },
+    {
+      "id": "8880",
+      "name": "Shampoo",
+      "category": "self care",
+      "quantity": "2",
+      "expiry": "2028-10-17"
+    },
+    {
+      "id": "a834",
+      "name": "Tomato",
+      "category": "food",
+      "quantity": "10",
+      "expiry": "2025-11-08"
+    }
+  ]
+}
